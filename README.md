@@ -1,4 +1,4 @@
-# DocAi Digital Rebuild Service (Phase 1)
+# DocAi Digital Rebuild Service
 
 Fastify + TypeScript prototype of the Phase 1 Digital Rebuild pipeline.
 
