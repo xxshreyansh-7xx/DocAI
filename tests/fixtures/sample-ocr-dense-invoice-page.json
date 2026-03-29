@@ -1,0 +1,257 @@
+{
+  "pageNumber": 1,
+  "width": 1000,
+  "height": 1400,
+  "lines": [
+    {
+      "text": "INVOICE DETAIL TABLE",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "INVOICE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 110,
+            "width": 120,
+            "height": 22
+          }
+        },
+        {
+          "text": "DETAIL",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 238,
+            "y": 110,
+            "width": 96,
+            "height": 22
+          }
+        },
+        {
+          "text": "TABLE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 342,
+            "y": 110,
+            "width": 90,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 104,
+        "width": 340,
+        "height": 30
+      }
+    },
+    {
+      "text": "Item Qty Rate Amount",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Item",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 100,
+            "y": 230,
+            "width": 70,
+            "height": 20
+          }
+        },
+        {
+          "text": "Qty",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 360,
+            "y": 230,
+            "width": 40,
+            "height": 20
+          }
+        },
+        {
+          "text": "Rate",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 560,
+            "y": 230,
+            "width": 55,
+            "height": 20
+          }
+        },
+        {
+          "text": "Amount",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 760,
+            "y": 230,
+            "width": 95,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 95,
+        "y": 224,
+        "width": 770,
+        "height": 28
+      }
+    },
+    {
+      "text": "Pen 2 10.00 20.00",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Pen",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 100,
+            "y": 275,
+            "width": 50,
+            "height": 20
+          }
+        },
+        {
+          "text": "2",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 365,
+            "y": 275,
+            "width": 14,
+            "height": 20
+          }
+        },
+        {
+          "text": "10.00",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 560,
+            "y": 275,
+            "width": 70,
+            "height": 20
+          }
+        },
+        {
+          "text": "20.00",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 760,
+            "y": 275,
+            "width": 74,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 95,
+        "y": 269,
+        "width": 770,
+        "height": 27
+      }
+    },
+    {
+      "text": "Notebook 1 40.00 40.00",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Notebook",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 100,
+            "y": 318,
+            "width": 110,
+            "height": 20
+          }
+        },
+        {
+          "text": "1",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 365,
+            "y": 318,
+            "width": 14,
+            "height": 20
+          }
+        },
+        {
+          "text": "40.00",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 560,
+            "y": 318,
+            "width": 70,
+            "height": 20
+          }
+        },
+        {
+          "text": "40.00",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 760,
+            "y": 318,
+            "width": 74,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 95,
+        "y": 312,
+        "width": 770,
+        "height": 27
+      }
+    },
+    {
+      "text": "Bag 3 120.00 360.00",
+      "confidence": 0.94,
+      "words": [
+        {
+          "text": "Bag",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 100,
+            "y": 361,
+            "width": 46,
+            "height": 20
+          }
+        },
+        {
+          "text": "3",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 365,
+            "y": 361,
+            "width": 14,
+            "height": 20
+          }
+        },
+        {
+          "text": "120.00",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 560,
+            "y": 361,
+            "width": 80,
+            "height": 20
+          }
+        },
+        {
+          "text": "360.00",
+          "confidence": 0.94,
+          "bbox": {
+            "x": 760,
+            "y": 361,
+            "width": 80,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 95,
+        "y": 355,
+        "width": 770,
+        "height": 27
+      }
+    }
+  ]
+}

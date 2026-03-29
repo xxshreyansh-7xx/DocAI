@@ -1,0 +1,42 @@
+{
+  "pageNumber": 1,
+  "width": 1200,
+  "height": 1800,
+  "lines": [
+    {
+      "text": "SERVICE AGREEMENT",
+      "confidence": 0.99,
+      "words": [
+        { "text": "SERVICE", "confidence": 0.99, "bbox": { "x": 100, "y": 85, "width": 180, "height": 28 } },
+        { "text": "AGREEMENT", "confidence": 0.99, "bbox": { "x": 290, "y": 85, "width": 220, "height": 28 } }
+      ],
+      "bbox": { "x": 90, "y": 80, "width": 500, "height": 30 }
+    },
+    {
+      "text": "This agreement is entered into between Alpha Corp and Beta LLC.",
+      "confidence": 0.95,
+      "words": [
+        { "text": "This", "confidence": 0.95, "bbox": { "x": 100, "y": 153, "width": 55, "height": 22 } },
+        { "text": "agreement", "confidence": 0.95, "bbox": { "x": 160, "y": 153, "width": 130, "height": 22 } }
+      ],
+      "bbox": { "x": 90, "y": 150, "width": 900, "height": 25 }
+    },
+    {
+      "text": "TERM",
+      "confidence": 0.98,
+      "words": [
+        { "text": "TERM", "confidence": 0.98, "bbox": { "x": 100, "y": 223, "width": 85, "height": 22 } }
+      ],
+      "bbox": { "x": 90, "y": 220, "width": 180, "height": 25 }
+    },
+    {
+      "text": "The term of this agreement is 12 months from the effective date.",
+      "confidence": 0.72,
+      "words": [
+        { "text": "The", "confidence": 0.72, "bbox": { "x": 100, "y": 273, "width": 50, "height": 22 } },
+        { "text": "term", "confidence": 0.72, "bbox": { "x": 157, "y": 273, "width": 62, "height": 22 } }
+      ],
+      "bbox": { "x": 90, "y": 270, "width": 900, "height": 25 }
+    }
+  ]
+}

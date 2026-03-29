@@ -1,0 +1,589 @@
+{
+  "pageNumber": 1,
+  "width": 1200,
+  "height": 1700,
+  "lines": [
+    {
+      "text": "ALUMINI REGISTRATION FORM",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "ALUMINI",
+          "confidence": 0.99,
+          "bbox": {
+            "x": 300,
+            "y": 120,
+            "width": 140,
+            "height": 26
+          }
+        },
+        {
+          "text": "REGISTRATION",
+          "confidence": 0.99,
+          "bbox": {
+            "x": 450,
+            "y": 120,
+            "width": 220,
+            "height": 26
+          }
+        },
+        {
+          "text": "FORM",
+          "confidence": 0.99,
+          "bbox": {
+            "x": 680,
+            "y": 120,
+            "width": 90,
+            "height": 26
+          }
+        }
+      ],
+      "bbox": {
+        "x": 290,
+        "y": 114,
+        "width": 490,
+        "height": 34
+      }
+    },
+    {
+      "text": "NAME OF STUDENT",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "NAME",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 300,
+            "width": 90,
+            "height": 22
+          }
+        },
+        {
+          "text": "OF",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 210,
+            "y": 300,
+            "width": 35,
+            "height": 22
+          }
+        },
+        {
+          "text": "STUDENT",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 250,
+            "y": 300,
+            "width": 130,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 294,
+        "width": 300,
+        "height": 30
+      }
+    },
+    {
+      "text": "Aishwarya Banjay Chauhan",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "Aishwarya",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 620,
+            "y": 302,
+            "width": 120,
+            "height": 20
+          }
+        },
+        {
+          "text": "Banjay",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 745,
+            "y": 302,
+            "width": 94,
+            "height": 20
+          }
+        },
+        {
+          "text": "Chauhan",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 844,
+            "y": 302,
+            "width": 110,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 610,
+        "y": 296,
+        "width": 350,
+        "height": 28
+      }
+    },
+    {
+      "text": "YEAR OF LEAVING SCHOOL / COLLEGE",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "YEAR",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 360,
+            "width": 80,
+            "height": 22
+          }
+        },
+        {
+          "text": "OF",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 198,
+            "y": 360,
+            "width": 30,
+            "height": 22
+          }
+        },
+        {
+          "text": "LEAVING",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 236,
+            "y": 360,
+            "width": 112,
+            "height": 22
+          }
+        },
+        {
+          "text": "SCHOOL",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 356,
+            "y": 360,
+            "width": 100,
+            "height": 22
+          }
+        },
+        {
+          "text": "/",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 464,
+            "y": 360,
+            "width": 15,
+            "height": 22
+          }
+        },
+        {
+          "text": "COLLEGE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 486,
+            "y": 360,
+            "width": 108,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 354,
+        "width": 510,
+        "height": 30
+      }
+    },
+    {
+      "text": "2015",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "2015",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 620,
+            "y": 362,
+            "width": 62,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 610,
+        "y": 356,
+        "width": 80,
+        "height": 28
+      }
+    },
+    {
+      "text": "ADDRESS ( FOR CORRESPONDENCE )",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "ADDRESS",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 422,
+            "width": 110,
+            "height": 22
+          }
+        },
+        {
+          "text": "FOR",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 240,
+            "y": 422,
+            "width": 52,
+            "height": 22
+          }
+        },
+        {
+          "text": "CORRESPONDENCE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 308,
+            "y": 422,
+            "width": 220,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 416,
+        "width": 440,
+        "height": 30
+      }
+    },
+    {
+      "text": "221B Baker Street",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "221B",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 620,
+            "y": 424,
+            "width": 70,
+            "height": 20
+          }
+        },
+        {
+          "text": "Baker",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 698,
+            "y": 424,
+            "width": 86,
+            "height": 20
+          }
+        },
+        {
+          "text": "Street",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 792,
+            "y": 424,
+            "width": 94,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 610,
+        "y": 418,
+        "width": 290,
+        "height": 28
+      }
+    },
+    {
+      "text": "EMAIL ID",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "EMAIL",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 486,
+            "width": 90,
+            "height": 22
+          }
+        },
+        {
+          "text": "ID",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 208,
+            "y": 486,
+            "width": 30,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 480,
+        "width": 150,
+        "height": 30
+      }
+    },
+    {
+      "text": "john@example.com",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "john@example.com",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 620,
+            "y": 488,
+            "width": 230,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 610,
+        "y": 482,
+        "width": 246,
+        "height": 28
+      }
+    },
+    {
+      "text": "MOBILE NUMBER",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "MOBILE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 548,
+            "width": 100,
+            "height": 22
+          }
+        },
+        {
+          "text": "NUMBER",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 218,
+            "y": 548,
+            "width": 110,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 542,
+        "width": 240,
+        "height": 30
+      }
+    },
+    {
+      "text": "9876543210",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "9876543210",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 620,
+            "y": 550,
+            "width": 164,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 610,
+        "y": 544,
+        "width": 180,
+        "height": 28
+      }
+    },
+    {
+      "text": "PRESENT WORKING PLACE",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "PRESENT",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 612,
+            "width": 108,
+            "height": 22
+          }
+        },
+        {
+          "text": "WORKING",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 226,
+            "y": 612,
+            "width": 116,
+            "height": 22
+          }
+        },
+        {
+          "text": "PLACE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 350,
+            "y": 612,
+            "width": 82,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 606,
+        "width": 340,
+        "height": 30
+      }
+    },
+    {
+      "text": "AREA OF INTEREST",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "AREA",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 674,
+            "width": 72,
+            "height": 22
+          }
+        },
+        {
+          "text": "OF",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 190,
+            "y": 674,
+            "width": 34,
+            "height": 22
+          }
+        },
+        {
+          "text": "INTEREST",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 232,
+            "y": 674,
+            "width": 116,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 668,
+        "width": 260,
+        "height": 30
+      }
+    },
+    {
+      "text": "PRESENT STATUS",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "PRESENT",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 110,
+            "y": 736,
+            "width": 108,
+            "height": 22
+          }
+        },
+        {
+          "text": "STATUS",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 226,
+            "y": 736,
+            "width": 96,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 100,
+        "y": 730,
+        "width": 230,
+        "height": 30
+      }
+    },
+    {
+      "text": "Employed",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "Employed",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 620,
+            "y": 738,
+            "width": 128,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 610,
+        "y": 732,
+        "width": 140,
+        "height": 28
+      }
+    },
+    {
+      "text": "After fill the form send this form via WhatsApp",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "After",
+          "confidence": 0.93,
+          "bbox": {
+            "x": 120,
+            "y": 1550,
+            "width": 66,
+            "height": 20
+          }
+        },
+        {
+          "text": "fill",
+          "confidence": 0.93,
+          "bbox": {
+            "x": 192,
+            "y": 1550,
+            "width": 44,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 110,
+        "y": 1544,
+        "width": 620,
+        "height": 28
+      }
+    }
+  ]
+}

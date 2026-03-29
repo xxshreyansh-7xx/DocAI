@@ -1,0 +1,695 @@
+{
+  "pageNumber": 1,
+  "width": 1200,
+  "height": 1700,
+  "lines": [
+    {
+      "text": "ALUMINI REGISTRATION FORM",
+      "confidence": 0.99,
+      "words": [
+        {
+          "text": "ALUMINI",
+          "confidence": 0.99,
+          "bbox": {
+            "x": 301,
+            "y": 118,
+            "width": 140,
+            "height": 26
+          }
+        },
+        {
+          "text": "REGISTRATION",
+          "confidence": 0.99,
+          "bbox": {
+            "x": 451,
+            "y": 118,
+            "width": 220,
+            "height": 26
+          }
+        },
+        {
+          "text": "FORM",
+          "confidence": 0.99,
+          "bbox": {
+            "x": 681,
+            "y": 118,
+            "width": 90,
+            "height": 26
+          }
+        }
+      ],
+      "bbox": {
+        "x": 292,
+        "y": 111,
+        "width": 490,
+        "height": 34
+      }
+    },
+    {
+      "text": "NAME OF STUDENT",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "NAME",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 109,
+            "y": 302,
+            "width": 90,
+            "height": 22
+          }
+        },
+        {
+          "text": "OF",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 209,
+            "y": 302,
+            "width": 35,
+            "height": 22
+          }
+        },
+        {
+          "text": "STUDENT",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 249,
+            "y": 302,
+            "width": 130,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 99,
+        "y": 298,
+        "width": 300,
+        "height": 30
+      }
+    },
+    {
+      "text": "Regstratn detals read carefully",
+      "confidence": 0.71,
+      "words": [
+        {
+          "text": "Regstratn",
+          "confidence": 0.71,
+          "bbox": {
+            "x": 120,
+            "y": 240,
+            "width": 120,
+            "height": 18
+          }
+        },
+        {
+          "text": "detals",
+          "confidence": 0.71,
+          "bbox": {
+            "x": 246,
+            "y": 240,
+            "width": 80,
+            "height": 18
+          }
+        },
+        {
+          "text": "carefully",
+          "confidence": 0.71,
+          "bbox": {
+            "x": 332,
+            "y": 240,
+            "width": 94,
+            "height": 18
+          }
+        }
+      ],
+      "bbox": {
+        "x": 112,
+        "y": 236,
+        "width": 322,
+        "height": 24
+      }
+    },
+    {
+      "text": "John A Doe",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "John",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 619,
+            "y": 300,
+            "width": 72,
+            "height": 20
+          }
+        },
+        {
+          "text": "A",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 699,
+            "y": 300,
+            "width": 20,
+            "height": 20
+          }
+        },
+        {
+          "text": "Doe",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 725,
+            "y": 300,
+            "width": 58,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 609,
+        "y": 293,
+        "width": 190,
+        "height": 28
+      }
+    },
+    {
+      "text": "YEAR OF LEAVING SCHOOL / COLLEGE",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "YEAR",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 111,
+            "y": 362,
+            "width": 80,
+            "height": 22
+          }
+        },
+        {
+          "text": "OF",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 199,
+            "y": 362,
+            "width": 30,
+            "height": 22
+          }
+        },
+        {
+          "text": "LEAVING",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 237,
+            "y": 362,
+            "width": 112,
+            "height": 22
+          }
+        },
+        {
+          "text": "SCHOOL",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 357,
+            "y": 362,
+            "width": 100,
+            "height": 22
+          }
+        },
+        {
+          "text": "/",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 465,
+            "y": 362,
+            "width": 15,
+            "height": 22
+          }
+        },
+        {
+          "text": "COLLEGE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 487,
+            "y": 362,
+            "width": 108,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 102,
+        "y": 358,
+        "width": 510,
+        "height": 30
+      }
+    },
+    {
+      "text": "2015",
+      "confidence": 0.97,
+      "words": [
+        {
+          "text": "2015",
+          "confidence": 0.97,
+          "bbox": {
+            "x": 619,
+            "y": 360,
+            "width": 62,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 609,
+        "y": 353,
+        "width": 80,
+        "height": 28
+      }
+    },
+    {
+      "text": "ADDRESS ( FOR CORRESPONDENCE )",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "ADDRESS",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 109,
+            "y": 424,
+            "width": 110,
+            "height": 22
+          }
+        },
+        {
+          "text": "FOR",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 239,
+            "y": 424,
+            "width": 52,
+            "height": 22
+          }
+        },
+        {
+          "text": "CORRESPONDENCE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 307,
+            "y": 424,
+            "width": 220,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 99,
+        "y": 420,
+        "width": 440,
+        "height": 30
+      }
+    },
+    {
+      "text": "221B Baker Street",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "221B",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 621,
+            "y": 422,
+            "width": 70,
+            "height": 20
+          }
+        },
+        {
+          "text": "Baker",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 699,
+            "y": 422,
+            "width": 86,
+            "height": 20
+          }
+        },
+        {
+          "text": "Street",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 793,
+            "y": 422,
+            "width": 94,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 612,
+        "y": 415,
+        "width": 290,
+        "height": 28
+      }
+    },
+    {
+      "text": "EMAIL ID",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "EMAIL",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 109,
+            "y": 488,
+            "width": 90,
+            "height": 22
+          }
+        },
+        {
+          "text": "ID",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 207,
+            "y": 488,
+            "width": 30,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 99,
+        "y": 484,
+        "width": 150,
+        "height": 30
+      }
+    },
+    {
+      "text": "john@example.com",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "john@example.com",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 619,
+            "y": 486,
+            "width": 230,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 609,
+        "y": 479,
+        "width": 246,
+        "height": 28
+      }
+    },
+    {
+      "text": "MOBILE NUMBER",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "MOBILE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 111,
+            "y": 550,
+            "width": 100,
+            "height": 22
+          }
+        },
+        {
+          "text": "NUMBER",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 219,
+            "y": 550,
+            "width": 110,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 102,
+        "y": 546,
+        "width": 240,
+        "height": 30
+      }
+    },
+    {
+      "text": "9876543210",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "9876543210",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 619,
+            "y": 548,
+            "width": 164,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 609,
+        "y": 541,
+        "width": 180,
+        "height": 28
+      }
+    },
+    {
+      "text": "PRESENT WORKING PLACE",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "PRESENT",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 109,
+            "y": 614,
+            "width": 108,
+            "height": 22
+          }
+        },
+        {
+          "text": "WORKING",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 225,
+            "y": 614,
+            "width": 116,
+            "height": 22
+          }
+        },
+        {
+          "text": "PLACE",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 349,
+            "y": 614,
+            "width": 82,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 99,
+        "y": 610,
+        "width": 340,
+        "height": 30
+      }
+    },
+    {
+      "text": "Acme Labs",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Acme",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 621,
+            "y": 612,
+            "width": 74,
+            "height": 20
+          }
+        },
+        {
+          "text": "Labs",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 703,
+            "y": 612,
+            "width": 66,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 612,
+        "y": 605,
+        "width": 170,
+        "height": 28
+      }
+    },
+    {
+      "text": "AREA OF INTEREST",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "AREA",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 109,
+            "y": 676,
+            "width": 72,
+            "height": 22
+          }
+        },
+        {
+          "text": "OF",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 189,
+            "y": 676,
+            "width": 34,
+            "height": 22
+          }
+        },
+        {
+          "text": "INTEREST",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 231,
+            "y": 676,
+            "width": 116,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 99,
+        "y": 672,
+        "width": 260,
+        "height": 30
+      }
+    },
+    {
+      "text": "Software Engineering",
+      "confidence": 0.95,
+      "words": [
+        {
+          "text": "Software",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 619,
+            "y": 674,
+            "width": 128,
+            "height": 20
+          }
+        },
+        {
+          "text": "Engineering",
+          "confidence": 0.95,
+          "bbox": {
+            "x": 755,
+            "y": 674,
+            "width": 168,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 609,
+        "y": 667,
+        "width": 320,
+        "height": 28
+      }
+    },
+    {
+      "text": "PRESENT STATUS",
+      "confidence": 0.98,
+      "words": [
+        {
+          "text": "PRESENT",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 111,
+            "y": 738,
+            "width": 108,
+            "height": 22
+          }
+        },
+        {
+          "text": "STATUS",
+          "confidence": 0.98,
+          "bbox": {
+            "x": 227,
+            "y": 738,
+            "width": 96,
+            "height": 22
+          }
+        }
+      ],
+      "bbox": {
+        "x": 102,
+        "y": 734,
+        "width": 230,
+        "height": 30
+      }
+    },
+    {
+      "text": "Employed",
+      "confidence": 0.96,
+      "words": [
+        {
+          "text": "Employed",
+          "confidence": 0.96,
+          "bbox": {
+            "x": 619,
+            "y": 736,
+            "width": 128,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 609,
+        "y": 729,
+        "width": 140,
+        "height": 28
+      }
+    },
+    {
+      "text": "After fill the form send this form via WhatsApp",
+      "confidence": 0.93,
+      "words": [
+        {
+          "text": "After",
+          "confidence": 0.93,
+          "bbox": {
+            "x": 119,
+            "y": 1552,
+            "width": 66,
+            "height": 20
+          }
+        },
+        {
+          "text": "fill",
+          "confidence": 0.93,
+          "bbox": {
+            "x": 191,
+            "y": 1552,
+            "width": 44,
+            "height": 20
+          }
+        }
+      ],
+      "bbox": {
+        "x": 109,
+        "y": 1548,
+        "width": 620,
+        "height": 28
+      }
+    }
+  ]
+}

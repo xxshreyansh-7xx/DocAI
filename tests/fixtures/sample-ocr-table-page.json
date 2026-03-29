@@ -1,0 +1,46 @@
+{
+  "pageNumber": 1,
+  "width": 1000,
+  "height": 1400,
+  "lines": [
+    {
+      "text": "INVOICE ITEMS",
+      "confidence": 0.99,
+      "words": [
+        { "text": "INVOICE", "confidence": 0.99, "bbox": { "x": 110, "y": 90, "width": 120, "height": 26 } },
+        { "text": "ITEMS", "confidence": 0.99, "bbox": { "x": 235, "y": 90, "width": 90, "height": 26 } }
+      ],
+      "bbox": { "x": 100, "y": 85, "width": 300, "height": 32 }
+    },
+    {
+      "text": "Item Qty Price",
+      "confidence": 0.97,
+      "words": [
+        { "text": "Item", "confidence": 0.97, "bbox": { "x": 100, "y": 230, "width": 80, "height": 22 } },
+        { "text": "Qty", "confidence": 0.97, "bbox": { "x": 420, "y": 230, "width": 50, "height": 22 } },
+        { "text": "Price", "confidence": 0.97, "bbox": { "x": 710, "y": 230, "width": 80, "height": 22 } }
+      ],
+      "bbox": { "x": 95, "y": 225, "width": 715, "height": 28 }
+    },
+    {
+      "text": "Pen 2 10.00",
+      "confidence": 0.95,
+      "words": [
+        { "text": "Pen", "confidence": 0.95, "bbox": { "x": 100, "y": 275, "width": 65, "height": 20 } },
+        { "text": "2", "confidence": 0.95, "bbox": { "x": 430, "y": 275, "width": 20, "height": 20 } },
+        { "text": "10.00", "confidence": 0.95, "bbox": { "x": 710, "y": 275, "width": 80, "height": 20 } }
+      ],
+      "bbox": { "x": 95, "y": 270, "width": 715, "height": 26 }
+    },
+    {
+      "text": "Notebook 1 20.00",
+      "confidence": 0.94,
+      "words": [
+        { "text": "Notebook", "confidence": 0.94, "bbox": { "x": 100, "y": 318, "width": 120, "height": 20 } },
+        { "text": "1", "confidence": 0.94, "bbox": { "x": 430, "y": 318, "width": 18, "height": 20 } },
+        { "text": "20.00", "confidence": 0.94, "bbox": { "x": 710, "y": 318, "width": 82, "height": 20 } }
+      ],
+      "bbox": { "x": 95, "y": 313, "width": 715, "height": 26 }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "docai-digital-rebuild",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/server.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/src/server.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "lint": "tsc --noEmit",
+    "demo:local": "tsx scripts/local-demo.ts",
+    "demo:image": "tsx scripts/demo-image.ts",
+    "demo:visual-smoke": "tsx scripts/visual-smoke.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/vision": "^5.3.5",
+    "dotenv": "^17.3.1",
+    "fastify": "^5.8.4",
+    "firebase-admin": "^13.7.0",
+    "pdf-lib": "^1.17.1",
+    "pino": "^10.3.1",
+    "uuid": "^13.0.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "@types/supertest": "^7.2.0",
+    "supertest": "^7.2.2",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.2"
+  },
+  "private": true
+}
